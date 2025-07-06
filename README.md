@@ -23,5 +23,7 @@ You can compile and run the program using g++:
 ```bash
 g++ -o reward-game main.cpp 
 ./reward-game
-
+```
 *note : I use IDR currency in this project, fyi 1 USD = Rp.16,192,00. when this project created.
+
+This project avoids any real-world monetary use and is strictly for educational purposes to simulate chance-based mechanics, like those found in randomized reward systems in games!
